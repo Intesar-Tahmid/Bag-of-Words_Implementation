@@ -110,19 +110,3 @@ If you're learning:
 * [ ] Export vectors to a CSV file
 * [ ] Turn into a reusable function or class
 * [ ] Add a command-line interface
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and questions are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share.
-
----
-
-Would you like this README saved as a `README.md` file, or want me to help you improve the script further (e.g. punctuation cleaning, CSV export)?
